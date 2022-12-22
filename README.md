@@ -1,3 +1,5 @@
+#Guide Instalasi Project
+
 1. create project laravel dengan composer create-project laravel/laravel="8.*" AUTHENTIKASI
 
 2. create database di phpmyadmin dan ubah DB_DATABASE di .env sesuai dengan authentikasi
