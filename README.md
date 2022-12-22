@@ -2,7 +2,7 @@
 
 1. create project laravel dengan composer create-project laravel/laravel="8.*" AUTHENTIKASI
 
-2. create database di phpmyadmin dan ubah DB_DATABASE di .env sesuai dengan authentikasi
+2. create database di phpmyadmin dan ubah DB_DATABASE di .env dengan nama authentikasi
 
 3. composer require laravel/ui:*
 
